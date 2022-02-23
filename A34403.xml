@@ -1,0 +1,152 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The English oracle, or, A late prophecy of the miseries that will happen this next year, 1679 by A.C.</title>
+            <author>A. C.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A34403</idno>
+            <idno type="STC">Wing C6</idno>
+            <idno type="STC">ESTC R29170</idno>
+            <idno type="EEBO-CITATION">10840296</idno>
+            <idno type="OCLC">ocm 10840296</idno>
+            <idno type="VID">46091</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A34403)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46091)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1418:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The English oracle, or, A late prophecy of the miseries that will happen this next year, 1679 by A.C.</title>
+                  <author>A. C.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for W.M.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Licensed and entred according to order."</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prophecies.</term>
+               <term>Great Britain --  History --  Prophecies.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:46091:1"/>
+            <pb facs="tcp:46091:1" rendition="simple:additions"/>
+            <p> THE ENGLISH ORACLE: OR, A Late PROPHECY OF THE MISERIES that will happen this Next Year, 1679.</p>
+            <p>By <hi>A. C.</hi>
+            </p>
+            <p>Licenſed, and Entred according to Order.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>W. M.</hi> at the <hi>Acorn</hi> in S. <hi>Paul</hi>'s Church-Yard: where you may be furniſhed with moſt ſorts of Bound or Stitched Books, &amp;c. 1679.</p>
+            <pb facs="tcp:46091:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:46091:2"/>
+            <head>THE ENGLISH ORACLE, &amp;c.</head>
+            <p>HIſtory the only Office of Intelligence, where<g ref="char:EOLhyphen"/>at we inform our ſelves of the Tranſacti<g ref="char:EOLhyphen"/>ons of former Ages, amongſt other things that it hands down to poſterity, relates, that before that <hi>Alexander</hi> the Great left the world (his Conqueſt) ſome Aſtrono<g ref="char:EOLhyphen"/>mers of that Age obſerved a new Congeries of Stars ſo placed in the Heavens, that they made exactly theſe words, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>To day dies</hi> A<g ref="char:EOLhyphen"/>lexander. Whether we keep good correſpondence with Antiquity or no; or whether this may not be a lye dreſ<g ref="char:EOLhyphen"/>ſed up in the ſpecious term of authentick Hiſtory, I ſhall not diſpute, though I cannot but give ſome credit to it. For ſince that Providence made Bonefires at his Birth, lighting the vaſt Temple of <hi>Epheſus</hi> as a <hi>Flambeau</hi> to light <hi>Alexan<g ref="char:EOLhyphen"/>der</hi> into the World, and ſo made uſe of an earthly Comet as a <hi>Phoſphorus</hi> to uſher the Riſing-Sun into our lower Hemi<g ref="char:EOLhyphen"/>ſphere:
+<pb n="4" facs="tcp:46091:3"/> what wonder that the Heavens ſhould publiſh his death, ſeeing his victorious life had made him ſo great, that no Action of his could be ſufficiently ſolemnized by any Prodigy of his Vaſſal the Earth. But whether <hi>Alexander</hi>'s Fate was thus written in the Heavens, or no, 'tis certain that there are many ſick-brain'd and Fop-Aſtrologers that are continually poring in the Skies, as if the Deſtiny of all Mortals were written there. They hunt among the Stars for Prophecies, and News for future Ages, as if the Firma<g ref="char:EOLhyphen"/>ment were but a great Volume, or vaſt Sheet of Paper, and the Stars an Alphabet, in ſuch manner diſpoſed, as if God Allmighty had written therein the Deſtiny of Kings and Kingdoms for theſe ſilly men to read through a Jacob's-Staff. 'Tis ſtrange how preſumptuouſly theſe men will pretend to be able to read God Allmighty's hardeſt Hand, and under<g ref="char:EOLhyphen"/>ſtand his Secrets written in his abſtruſeſt Characters, by finding ſtrange Hierogliphick Sence in the Planets; where<g ref="char:EOLhyphen"/>as in reality their Intellect is ſo dazled by much contempla<g ref="char:EOLhyphen"/>ting thoſe bright Orbs, that at laſt they underſtand juſt no<g ref="char:EOLhyphen"/>thing, like thoſe that look ſo long at the Sun, that they look themſelves blind; or rather, it fares with them as it did with the ancient Aſtronomers, who by continually gazing at the Heavens, at laſt gazed themſelves into a belief that they ſaw ſtrange Forms, as Centaurs, Bears and Scorpions, whereas to every ſound eye there appears no more than an azure ground ſtudded with a few Celeſtial Gems. Theſe Night-Philoſophers that have an Intellect as dark as the time they ſtudy in, and a Brain as cloudy as the foggy Re<g ref="char:EOLhyphen"/>gion they look through, are ſtill looking through Tubes and Opticks, as if thoſe ſilly Inſtruments could aſſiſt mortal ſight to ſee into future Ages, and diſcern things as far di<g ref="char:EOLhyphen"/>ſtant as the end of time; they are continually peeping in the Moon and Stars, as if they were ſo many Looking-Glaſſes
+<pb n="5" facs="tcp:46091:3"/> that did repreſent every action, motion and geſture of men below; and thoſe not only preſent and paſt, but future too. And indeed they are ſo deſirous of ſeeing ſome<g ref="char:EOLhyphen"/>thing, that oftentimes they fancy that they ſee ſtrange things in earneſt, as the Downfal of Kingdoms, Subverſion of Em<g ref="char:EOLhyphen"/>pires, Civil Wars, raging Plagues, and a thouſand ſuch aery Fantoms; like Children, who by long looking on the Clouds, frame to themſelves Men on Horſeback, Chariots drawn by Lions, Armies in Battel-Array, and the like, which, thoſe that ſtand by and hear them tell their Viſion, know to be no more than the deluſions of a weak ſight, and a weaker Brain. But yet the curioſity of man (who ſel<g ref="char:EOLhyphen"/>dom expects with patience the natural Birth of things, but is ſtill beſt pleaſed when nature by ſome extraordinary means miſcarries, and is brought to Bed of an abortive Iſ<g ref="char:EOLhyphen"/>ſue, before ſhe is half out of her Reckoning) receives al<g ref="char:EOLhyphen"/>moſt every Dream for a Prophecy, although the Aſtrologer can foretel no more of the thing he propheſies about, than only that it either will be, or will not. As I deteſt the pra<g ref="char:EOLhyphen"/>ctices of theſe <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mpoſtors, ſo I ſhall impoſe no ſuch lies upon the world: for my Predictions ſhall appear as infallible as theirs uncertain, and as impoſſible to be falſe, as 'tis that the Sun ſhould run counter, Rivers ſlide back into their Springs, and the Moon loſe her way, and inſtead of travel<g ref="char:EOLhyphen"/>ling from Eaſt to Weſt, wander in the unknown paths of the North. For I do not draw my Conſequences (as others do) from between the Horns of the Moon, nor pretend to have ſeen what I foretel, written in the Forehead of <hi>Mercu<g ref="char:EOLhyphen"/>ry,</hi> or <hi>Venus;</hi> nor do I deduce any thing from the dark ſen<g ref="char:EOLhyphen"/>tences of our Engliſh Sibyl, Mother <hi>Shipton,</hi> or from the e<g ref="char:EOLhyphen"/>quivocal Writings of our modern Gypſie-Prophets, but from the unvariable tenour of Providence, immutable na<g ref="char:EOLhyphen"/>ture of things, and convincing Axioms of Ethick Philoſo<g ref="char:EOLhyphen"/>phy.</p>
+            <pb n="6" facs="tcp:46091:4"/>
+            <p> Firſt therefore from theſe infallible Rules I draw that this following year 1679 will be infected with an univerſal Plague, a Diſeaſe which the Latins ſtile <hi>morbus animi,</hi> and the Engliſh generally call <hi>Vice.</hi> This malignant Peſt firſt began in the firſt year of the Creation of the Univerſe, and was brought into the world by the man that firſt received life, the protoplaſt <hi>Adam;</hi> and he got it from a ſurfeit. By eating too much of the fruit of Paradiſe he fell deſperately ſick of this Diſeaſe, and ſo infected his whole progeny; for the Fountain being once poyſoned, the ſtreams that run from it muſt needs be tainted: and this year this old Diſeaſe will be as rife as ever. No Country, Town, or Family will be free from its infection. You may go round <hi>London,</hi> as <hi>Diogenes</hi> went about <hi>Athens</hi> with a Lanthorn and Candle at Mid-night, or Mid-day to ſeek for a ſane man, and you find all either dangerouſly ſick, or far gone of this Diſeaſe: nay, ſhould one of the quick ſighted Spirits of Heaven take the Moon in his hand for a Torch by night, and the Sun for a Light by day, and ſearch the world in every corner, he would not find one ſingle perſon free from all the ſymptoms of this Plague; the Species of which are infinite, and the effects various. For ſome it ſieſes with a deſperate Melancholy, ſome with a cholerick Frenzy, and ſome it turns all into proud fleſh, and proud humours. Others it takes with a kind of a Dropſie, which the Moral Phyſician <hi>Seneca</hi> calls <hi>Avarice.</hi> This thirſty Diſeaſe and ravenous Diſtemper makes the greedy Patient ſtill gape after precious Liquor; but the more he drinks the dryer he grows, and is never ſa<g ref="char:EOLhyphen"/>tisfied till he is choked, like <hi>Midas</hi> with liquid Gold. But with moſt this Epidemical Plague will turn to a malignant Fever, known to the Latine Doctors by the name of <hi>Lues Ve<g ref="char:EOLhyphen"/>n<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rea.</hi> This lecherous Diſeaſe burns man quite up with the flames of Luſt, and deſtroys the whole Fabrick by firing it
+<pb n="7" facs="tcp:46091:4"/> within, and rotting it without. Some of theſe are aſhamed of their misfortune, and like the Egyptian Bird that buries her Excrement becauſe ſhe knows it noxious to other Beaſts, conceal their Malady from the publick eye, becauſe they will not poyſon the whole Flock; but others glory in their condition, and publiſh their Diſtemper to the world, car<g ref="char:EOLhyphen"/>rying their Leproſie with <hi>Ozias,</hi> in their very Fore-heads; and to ſhew that they have the malicious nature of thoſe that are ſick of the Plague, they endeavour to infect all they meet, eſteeming themſelves never worſe than when they ſee others well, and ſo bear a malice equal to that of the Devil whoſe greateſt Hell it is to ſee others in Heaven. I have ſaid ſo much of this dreadful Peſtilence, that I come later than I intended, to ſpeak of the univerſal Slaughter that ſhall be committed upon all Sexes, and all Ages by that pale Monſter which the Evangeliſt ſaw in the Apocalypſe, arm'd with a ſharp Sythe, and mounted on a rawbon'd Horſe, that went more ſwift than March Winds, or Summer Lightning. This mercileſs Tyrant, which the Greek Text calls <hi>Thanatos,</hi> and the Engliſh, <hi>Death,</hi> has been on Horſe<g ref="char:EOLhyphen"/>back ſome thouſands of years, riding down through all A<g ref="char:EOLhyphen"/>ges towards the end of time, and is now come within ſome few days of 79, and when he reaches it, he'll begin his Maſſacre from the very firſt moment of the year, and con<g ref="char:EOLhyphen"/>tinue it to the laſt, upon men of all Degrees and Ages: he'll bear no reſpect to Nobility, no pity towards Youth or Beauty; the Rich ſhall find no Treaſures to bribe him, the Stout no courage to reſiſt him, the Eloquent no Rhetorick to move him, nor the Dextrous any Sleight to avoid his Stroke; for where he aims he hits, and where he hits he kills: no crowd of Clients ſhall defend the potent, no corner conceal the timerous, ſince the Mothers Womb ſhall not be able to hide her Infant from his Weapon. All
+<pb n="8" facs="tcp:46091:5"/> this is nothing, compared to the Outrages and Villanies that ſhall be committed the ſame year. Young Virgins ſhall be deflowred almoſt in the very ſight of their Parents, the Husbands ſacred Bed-right ſhall be invaded, the Rich ſhall be deſign'd upon by the needy, the abject trampled on by the proud, the poor ſhall ſtarve at the prodigal's door, while the prodigals Dog eats from off the ſame Trencher, the lame and blind ſhall lie in the Streets as hoarſe with beg<g ref="char:EOLhyphen"/>ging, as if they had been bawling to the Clouds or Stars for an Alms, and yet ſhall have their Purſes as empty, as if they had been begging from Marble Statues, and holding out their hands to Monuments of Braſs.</p>
+            <p>This, and much more ſhall happen, and if it fails, let the World caſt the lye in my teeth in as opprobrious terms as it can, and let every underſtanding man tell me I prophe<g ref="char:EOLhyphen"/>ſie no truer than a Poet, but let me tell you, if what I have foretold, happens not, you may expect that the next year the Heavens turn backwards, the Sun be blown out, the Rivers forget their way into the Sea, and run over the tops of Mountains, and all things put off their old nature, as Serpents do their caſt-off Skins, and no longer remain the things they were.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <p>There is lately Publiſhed a Catholick Pill to purge Popery, with a Preparatory Preface, obviating the growing Malignity of Popery againſt Catholick Chriſtianity: By a true Son of the Catholick Apoſtolick Church. Uſeful for all private Families.</p>
+            <pb facs="tcp:46091:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
